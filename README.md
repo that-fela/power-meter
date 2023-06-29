@@ -1,2 +1,2 @@
 # power-meter
-This was a University projects for designing and making a power meter
+This was a University project in which we designed a power meter
